@@ -14,6 +14,6 @@ To further improve on this other architectures of Deep Q Learning were implement
 2. Dueling Deep Q Learning
 3. Dueling Double Deep Q Learning
 
-![Deep Q Learning Graph](./images/plot1.png)
+![Deep Q Learning Graph](./plot1.png)
 
 Obtained Average Score of 15.3/21.0 and best score of 20.0/21.0 in just 250 games
